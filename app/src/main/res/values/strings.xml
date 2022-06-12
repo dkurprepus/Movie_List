@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="no_result_title">Sorry, No Search Result Found</string>
+    <string name="try_new_search">try with other text</string>
+</resources>
