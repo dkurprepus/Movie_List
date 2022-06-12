@@ -1,6 +1,6 @@
 - Recyclerview Pagination
 
--Android Recyclerview pagination with Grid Layout MVVM Design pattern used with kotlin language
+- Android Recyclerview pagination with Grid Layout, MVVM Design pattern used with kotlin language
 
 Library Used
 - Retrofit for network calls
